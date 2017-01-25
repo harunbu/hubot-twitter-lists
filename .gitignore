@@ -2,3 +2,5 @@ node_modules
 .DS_Store*
 .hubot_history
 .idea
+/bin/hubot-withenv
+/bin/hubot-withenv.cmd
